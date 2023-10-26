@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+    color:rgb(183, 224, 224)
+
+}
+
+
+
+
+#ima1 {
+    display:block;
+    margin: 0% auto;
+    width: 27%;
+
+}
+
+
+#ima2 {
+    display:block;
+    margin: 0% auto;
+    width: 27%;
+
+}
+
+
+
+#ima3 {
+    display: block;
+    margin: 0% auto;
+    width:27%;
+}
+
+
+
+
+
+body {
+    background-color:rgb(240, 200, 141);
+margin: 0;
+padding: 0;
+
+
+}
